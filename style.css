@@ -11,7 +11,7 @@ header{
 }
 main{
     margin: 0;
-    background-image:url(/img1.jpg);
+    background-image: src("https://s3-alpha-sig.figma.com/img/95bf/649d/8eb03bd19c096659184625f13c998024?Expires=1684713600&Signature=neMQZ~EI-~1YBfbn6waqd4kUDE3um6ko0R7MiiUC3-0BLzPa36RyWQzyFX~FojbTxogITecosmDC7iVcC9aCqTzl-nTjEpUzff4ADYze7HFOpzvtHYGZga4g9kicyXdBbmDHn-UQGzd3O78MbcXl3Y-C3A7OCCztRZ~sqIC5uzy258ulh4nlqOgVGIfvVjOfO3bal8xBebIjMisf4u8FA1tGify4Y9zAjvl1XSBXMRUDC1W~y4GHIdrBggmcydSoo5Tj-4SjPIRc2Lpq0Yzki4EqhrKPtGk~qETp9kV-jKzQOU3M7ZnpyQNmeMG-NLJP--gISaG2klt2yNlk1IaGKg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
     background-size:100% 1080px;
     background-repeat: no-repeat;
     width: 100%;
